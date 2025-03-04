@@ -8,7 +8,7 @@ At the moment, I am working on different projects.
 
 ## 🛠️ Technologies & Tools  
 ### **Programming Languages**
-![C#](https://img.shields.io/badge/-C#-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-a27add?style=flat&logo=sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ### **Frameworks & Libraries**  
