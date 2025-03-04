@@ -10,7 +10,7 @@ At the moment, I am working on different projects.
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-a27add?style=flat&logo=sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-.NET-%236295cb?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-%236295cb?style=flat&logo=cplusplus&logoColor=white)
 
 ### **Frameworks & Libraries**  
 ![Qt](https://img.shields.io/badge/-Qt-%23000000?style=flat&logo=qt&logoColor=white)   
