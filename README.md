@@ -18,12 +18,10 @@ At the moment, I am working on different projects.
 ### **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
-
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMinus1_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMinus1&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMinus1&show_icons=true&theme=default)  
 
 ---
 
