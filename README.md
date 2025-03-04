@@ -16,15 +16,14 @@ At the moment, I am working on different projects.
 ![.NET](https://img.shields.io/badge/-.NET-%235632d5?style=flat&logo=dotnet&logoColor=white)
 
 ### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMinus1ow_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMinus1&layout=compact&theme=default)  
 
 ---
 
