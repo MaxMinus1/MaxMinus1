@@ -27,9 +27,9 @@ At the moment, I am working on different projects.
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Project Name 1](Project-Link)** – Short description of the project (e.g., "A web application for XYZ").  
-🔹 **[Project Name 2](Project-Link)** – Short project description.  
-🔹 **[Project Name 3](Project-Link)** – Short project description.  
+🔹 **[AI Battle Agent]** – Currently developing an AI-powered Pokémon battle agent for the VGC AI Competition 2025. The agent utilizes evolutionary algorithms to refine battle strategies through generational improvements. The project will be made public after the competition concludes.
+🔹 **[Internal OPC UA Client]** – Designed and implemented an OPC UA client to evaluate the performance potential of the connected OPC UA server. The project was developed using the UA .NET framework from the OPC Foundation.
+🔹 **[Internal Data Delivery Project]** – Designed and developed Node-RED nodes enabling direct communication with an OPC UA server or a PLC. Implemented functionality for reading, writing, and subscribing to data, with results published via MQTT.  
 
 ---
 
