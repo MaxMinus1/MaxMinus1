@@ -22,7 +22,7 @@ At the moment, I am working on different projects.
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMinus1ow_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxMinus1_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMinus1&layout=compact&theme=default)  
 
 ---
