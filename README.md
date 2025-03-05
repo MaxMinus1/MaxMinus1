@@ -40,12 +40,4 @@ At the moment, I am working on different projects.
 
 ---
 
-## 📬 Contact  
-📧 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-🌐 **Portfolio:** [If Available]  
-📝 **Blog:** [If You Write Articles]  
-
----
-
 ⭐ **If you like my work, consider giving a star to my repositories or connecting with me!**  
