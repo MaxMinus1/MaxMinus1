@@ -21,6 +21,8 @@ At the moment, I am working on different projects.
 
 ### **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Github](https://img.shields.io/badge/-Github-%23000000?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
