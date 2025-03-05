@@ -17,6 +17,7 @@ At the moment, I am working on different projects.
 ### **Frameworks & Libraries**  
 ![Qt](https://img.shields.io/badge/-Qt-%23000000?style=flat&logo=qt&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-%235632d5?style=flat&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue-%2347ba87?style=flat&logo=vuedotjs&logoColor=white)
 
 ### **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
